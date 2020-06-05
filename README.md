@@ -1,2 +1,3 @@
 # backend
-This is persistence backend image files for Ventoy
+This repository provides persistence backend image files for Ventoy.
+
